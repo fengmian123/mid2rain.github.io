@@ -8,4 +8,6 @@ Team member：
 - 刘祥盛
 - 张庆伟
 
+数据处理见`data_process.ipynb`
+
 具体处理见PPT&Word
